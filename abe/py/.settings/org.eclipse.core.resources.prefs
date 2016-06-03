@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/benchmark/avg_res.py=utf-8
+encoding//src/benchmark/results2tex.py=utf-8
+encoding//src/crypto/ub_nonmonotonic_cpabe/unmcpabe.py=utf-8
+encoding//src/examples_and_trials/db_test.py=utf-8
+encoding//src/examples_and_trials/mysql_dbconfig.py=utf-8
+encoding//src/examples_and_trials/sub.py=utf-8
+encoding//src/gc.py=utf-8
+encoding//src/model/db/sqlalchemy_declarative/gc.py=utf-8
+encoding//src/model/db/sqlalchemy_declarative/gm.py=utf-8
+encoding//src/mqtt/pub_sub.py=utf-8
